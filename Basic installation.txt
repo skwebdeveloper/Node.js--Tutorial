@@ -1,4 +1,4 @@
-                          BASIC GUIDE FOR BEGINEERS
+                                                       BASIC GUIDE FOR BEGINEERS
 
 1 .I prefer to use [Atom - TextEditor] for writing your logic. There are various
 other TextEditor like [Sublime , Notepad++ , Notepad , Codepen etc..].
