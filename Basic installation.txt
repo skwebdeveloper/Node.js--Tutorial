@@ -1,0 +1,27 @@
+                          BASIC GUIDE FOR BEGINEERS
+
+1 .I prefer to use [Atom - TextEditor] for writing your logic. There are various
+other TextEditor like [Sublime , Notepad++ , Notepad , Codepen etc..].
+
+2 . Download Atom throw this link -> https://atom.io/
+
+3 . Then Go to settings -> Packages -> Search for this package
+(platformio-ide-terminal)
+
+4 . Then install Node.js -> https://nodejs.org/en/
+
+5 . When install open your cmd for checking -> node -v
+
+6 . Yeah you are ready to go now !
+
+7 . Open your Atom -> make your new folder -> name.js
+
+8 . Open your CMD on your Atom TextEditor -> + (Bottom Left Corner)
+
+9 . You can directly make your directories through this command -> mkdir name.js
+
+10 . For making files -> touch Filename. extension
+
+11 . If you want to go back on your directory -> cd..
+
+12 . If your want to know the status of your current file tye -> ls
